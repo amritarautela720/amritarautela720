@@ -8,7 +8,9 @@
 <h3 align="left">Connect with me:</h3>
 <img align="right" width="400" alt= "gif" src="https://www.multirecruit.com/wp-content/uploads/2022/05/What-does-a-Full-Stack-Developer-do.png" />
 <div align="left">
-  <a href="https://https://www.linkedin.com/in/amrita-rautela-204429243/?trk=contact-inf">
+  <a href="https://www.linkedin.com/in/amrita-rautela-204429243/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
+
+      
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
 
